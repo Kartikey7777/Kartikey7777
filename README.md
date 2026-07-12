@@ -17,7 +17,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 B.Tech in Computer Science & Engineering (AI/ML Specialisation) at **VIT Bhopal** — CGPA 8.50/10.0
+- 🎓 B.Tech in Computer Science & Engineering (AI/ML Specialisation) at **VIT Bhopal** — CGPA 8.57/10.0
 - 🔭 Currently building **PATROL** — a real-time AI pothole detection system with a YOLOv5-style CNN pipeline
 - 🌱 Deepening expertise in **Computer Vision, Deep Learning, and NLP** with TensorFlow, OpenCV, and MediaPipe
 - 💬 Ask me about **Object Detection, Pose Estimation, Intent Classification, or end-to-end ML pipelines**
